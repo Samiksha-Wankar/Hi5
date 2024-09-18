@@ -57,4 +57,4 @@ For any questions, suggestions, or feedback, please feel free to reach out:
 - Email: samikshawankar808@gmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/samiiksha070620/)
 
-**Thank you for visiting H!5! 🎉**
+**Thank you for visiting H!5 🎉**
