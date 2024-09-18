@@ -4,6 +4,11 @@ Welcome to H!5, a sleek and modern social media web application landing page des
 ## 📋 Overview
 H!5 is more than just a landing page—it's a gateway to a future social media platform with key interactions already in place. With a focus on user engagement, the page allows visitors to interact with posts, customize the theme, and experience a clean, modern design.
 
+## 🌐 Live Demo
+Explore the live version of **H!5** here:
+
+🔗 [Live Demo](https://hi5-zeta.vercel.app/)
+
 ## 🚀 Features
 - **Interactive Post Feed:** View a feed of sample posts to get a feel for the app’s potential.
 - **Like Functionality:** Users can like posts to simulate interaction within the platform.
@@ -50,6 +55,6 @@ This allows users to switch between a visually comfortable dark mode and a brigh
 ## 📬 Contact
 For any questions, suggestions, or feedback, please feel free to reach out:
 - Email: samikshawankar808@gmail.com
-- LinkedIn: My LinkedIn Profile
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/samiiksha070620/)
 
 **Thank you for visiting H!5! 🎉**
