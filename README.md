@@ -26,7 +26,7 @@ Explore the live version of **H!5** here:
 To run the H!5 landing page locally, follow these steps:
 
 - **1. Clone the Repository**
-- git clone https://github.com/yourusername/h5-landing-page.git
+- git clone https:[https://github.com/Samiksha-Wankar/Hi5-landing-page.git](https://github.com/Samiksha-Wankar/Hi5.git)
 - cd h5-landing-page
   
 - **2. Install Dependencies**
